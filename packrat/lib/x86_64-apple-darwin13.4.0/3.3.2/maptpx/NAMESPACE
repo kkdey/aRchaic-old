@@ -1,0 +1,17 @@
+useDynLib(maptpx)
+import(slam)
+import(SQUAREM)
+import(boot)
+
+export(stm_tfidf,
+       normalizetpx,
+       rdir,
+       topics,
+       predict.topics,
+       topicVar,
+       expit,
+       logit)
+
+S3method(plot,topics)
+S3method(predict,topics)
+S3method(summary,topics)

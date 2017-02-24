@@ -1,0 +1,27 @@
+AbundanceGoM            GoM model fit for abundance data
+BatchCorrectedCounts    Obtain Batch effect Corrected counts
+ExtractHighCorFeatures
+                        Extracting most highly correlated genes with
+                        GoM topics/clusters
+ExtractTopFeatures      Extracting top driving genes of GoM clusters
+FitGoM                  Grade of Membership (GoM) model fit !
+FitGoMpool              Run Grade of Membership (GoM) model with
+                        multiple starting points !
+GTExV6Brain.FitGoM      GoM model fit for GTEx V6 Brain bulk-RNA data
+MouseDeng2014.FitGoM    GoM model fit for Deng et al 2014 single cell
+                        RNA-seq data on mouse
+MouseJaitinSpleen.FitGoM
+                        GoM model fit for Jaitin et al 2014 single cell
+                        RNA-seq data on mouse
+RemoveSparseFeatures    Removes features with a lot of 0 counts
+StructureGGplot         Struture plot using ggplot2
+cg_topics               Compute the center of gravity of the clusters
+compGoM                 compGoM: compare GoM model fits through
+                        log-likelihood, BIC and null loglikelihood
+compare_omega           Re-ordering cluster membership proportion
+                        matrices and Information calculation
+ex.counts               counts data for GTEx V6 Brain data for 200
+                        genes
+handleNA                Deal with NAs in the dataset!
+nullmodel_GoM           Null models for Grade of Membership (GoM)
+                        cluster validation

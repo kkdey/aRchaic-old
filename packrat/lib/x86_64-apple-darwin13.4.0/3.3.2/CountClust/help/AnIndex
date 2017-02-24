@@ -1,0 +1,15 @@
+AbundanceGoM	AbundanceGoM
+BatchCorrectedCounts	BatchCorrectedCounts
+cg_topics	cg_topics
+compare_omega	compare_omega
+ex.counts	ex.counts
+ExtractTopFeatures	ExtractTopFeatures
+FitGoM	FitGoM
+GTExV6Brain.FitGoM	GTExV6Brain.FitGoM
+handleNA	handleNA
+MouseDeng2014.FitGoM	MouseDeng2014.FitGoM
+MouseJaitinSpleen.FitGoM	MouseJaitinSpleen.FitGoM
+nullmodel_GoM	nullmodel_GoM
+RemoveSparseFeatures	RemoveSparseFeatures
+StructureGGplot	StructureGGplot
+Structure_omega	Structure_omega

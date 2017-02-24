@@ -1,0 +1,24 @@
+Package: truncnorm
+Version: 1.0-7
+Title: Truncated normal distribution
+Description: r/d/p/q functions for the truncated normal distribution
+Author:
+  Heike Trautmann <trautmann@statistik.uni-dortmund.de>
+  and Detlef Steuer <detlef.steuer@hsu-hamburg.de>
+  and Olaf Mersmann <olafm@statistik.uni-dortmund.de>
+  and Björn Bornkamp <bornkamp@statistik.tu-dortmund.de>
+Maintainer: Olaf Mersmann <olafm@statistik.uni-dortmund.de>
+Depends: R (>= 2.15.0)
+License: GPL-2
+Encoding: UTF-8
+Date: 
+Packaged: 2014-01-21 08:56:20 UTC; olafm
+NeedsCompilation: yes
+Repository: CRAN
+Date/Publication: 2014-01-21 10:17:26
+Built: R 3.3.0; x86_64-apple-darwin13.4.0; 2016-05-04 14:12:59 UTC; unix
+Archs: truncnorm.so.dSYM
+RemoteType: cran
+RemoteSha: 1.0-7
+RemoteRepos: structure(c("https://bioconductor.org/packages/3.4/bioc", "https://bioconductor.org/packages/3.4/data/annotation", "https://bioconductor.org/packages/3.4/data/experiment", "https://bioconductor.org/packages/3.4/extra", "https://cran.rstudio.com/"), .Names = c("BioCsoft", "BioCann", "BioCexp", "BioCextra", "CRAN"))
+RemotePkgType: mac.binary.mavericks

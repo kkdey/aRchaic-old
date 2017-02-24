@@ -1,0 +1,11 @@
+himalayan_fauna_2_clusters
+                        Phylogenetic abundance of bird species families
+                        in two clusters of regions in Himalayas
+himalayan_fauna_3_clusters
+                        Phylogenetic abundance of bird species families
+                        in three clusters of regions in Himalayas
+ic_computer             Information criterion computer
+logomaker               Main workhorse function that builds the logo
+                        plots
+makemylogo              Logo maker for a given English alphanumeric
+                        with common punctuations

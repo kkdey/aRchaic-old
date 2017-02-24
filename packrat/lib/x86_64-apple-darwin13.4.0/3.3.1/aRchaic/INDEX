@@ -1,0 +1,47 @@
+aggregate_bin_counts    Aggregate bin summary counts into a matrix of
+                        counts format
+club_signature_counts   Club signatures from the two strands to remove
+                        strand bias
+club_signature_validation_plot
+                        Function to check if the signatures should be
+                        clubbed
+damageLogo              Builds damage logo plots for the clusters
+damageLogo_pos          Builds damage logo plots along with mutational
+                        profile across read for the clusters
+damageLogo_pos_str      Builds damage logo plots along with mutational
+                        profile across read and the strand break
+                        composition for the clusters
+damage_build_bin_counts
+                        Summarize the mutationFileFormat data into bins
+                        along the read length
+damage_slope_calc       Calculates slope of the damage/mutational
+                        pattern from ends of reads
+filter_signatures_by_location
+                        Function to extract signature counts of
+                        mutations occurring only upto a certain
+                        position along the genome
+filter_signatures_only_location
+                        Function to extract signature counts for
+                        position along the read
+filter_signatures_per_substitution
+                        Function to extract signature counts only for a
+                        specific substitution pattern
+filter_signatures_w_mutation
+                        Function to extract counts for only mutation
+                        with no flanking bases.
+filter_signatures_wo_location
+                        Function to extract counts for only
+                        mutatiosignatures without position information
+gridPCA_position_signatures_combo
+                        Function to perform grid plots of PCA for
+                        signature counts with position information from
+                        multiple data sources
+gridPCA_signatures      Function to perform grid plots of PCA for
+                        signature counts
+pattern_plot            Plot mutation signature patterns across read
+                        length
+pattern_plot_full       Plot mutation signature patterns across read
+                        length
+strand_breaks_composition
+                        Computes strand break composition for mutation
+                        signatures at the extremes
